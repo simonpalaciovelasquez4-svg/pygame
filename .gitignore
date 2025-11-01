@@ -24,8 +24,8 @@
 .vs/
 
 # Visual Studio Code cache/config directory
-.vscode/
 
+temp_auto_push.bat
 # PyCharm cache/config directory
 .idea/
 
@@ -53,3 +53,5 @@ src_c/_sdl2/video.c
 src_c/_sprite.c
 src_c/pypm.c
 
+.gitignore
+branch_structure.json
